@@ -1,8 +1,6 @@
-forge "http://forge.puppetlabs.com"
-
 # Modules from the Puppet Forge
 mod "puppetlabs/stdlib"
-mod "puppetlabs/apache",
+mod "puppetlabs/apache"
 mod "puppetlabs/mysql"
 mod "puppetlabs/vcsrepo"
 mod "puppetlabs/inifile"
